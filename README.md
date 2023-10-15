@@ -4,8 +4,7 @@ Developed and Completed in April 2022
 
 Ansar Yonis - Computer Engineering Student <br /> Muhammad Pracha - Biomedical Engineering Peer <br /> Hasan Zuberi - Computer Engineering Peer <br />
 
-1.) Calculate the yearly average temperature for each lake and the annual average for all six lakes combined.<br />
-2.) Indicate which lake is the coldest and which one is the warmest, based on the average yearly temperatures calculated in step #1. Also, indicate which lakes have average temperatures above the average of all and which are below that same average.<br />
+1.) Calculate the yearly average temperature for each lake and the annual average for all six lakes combined.<br /> 2.) Indicate which lake is the coldest and which one is the warmest, based on the average yearly temperatures calculated in step #1. Also, indicate which lakes have average temperatures above the average of all and which are below that same average.<br />
 
 3.) Indicate the day and the temperature for the warmest water temperatures for each of the lakes. Do the same for the coldest temperatures.
 
