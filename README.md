@@ -3,7 +3,9 @@ A program in C language highlighting information on Canada's lake weather read f
 Developed and Completed in April 2022
 
 Ansar Yonis - Computer Engineering Student
+
 Muhammad Pracha - Biomedical Engineering Peer
+
 Hasan Zuberi - Computer Engineering Peer
 
 1.) Calculate the yearly average temperature for each lake and the annual average for all six lakes combined.
